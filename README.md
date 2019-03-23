@@ -1,2 +1,4 @@
 # hello-word
-justfor test
+just for test
+
+Updated readme file
